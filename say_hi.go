@@ -4,6 +4,7 @@ func JustSayHi(a string) string {
 	return "HI " + a
 }
 
-func main() {
+// tidak boleh ada main karena dianggap program
+// func main() {
 
-}
+// }
