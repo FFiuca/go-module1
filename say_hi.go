@@ -5,6 +5,3 @@ func JustSayHi(a string) string {
 }
 
 // tidak boleh ada main karena dianggap program
-// func main() {
-
-// }
