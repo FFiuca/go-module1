@@ -1,4 +1,4 @@
-package main
+package module1
 
 func JustSayHi(a string) string {
 	return "HI " + a
