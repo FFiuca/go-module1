@@ -1,0 +1,1 @@
+jika ingin melakukan major upgrade, disarankan tambah path modulenya menjadi /v2 ... dan tag depannya dinaikan
